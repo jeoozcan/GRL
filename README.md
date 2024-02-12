@@ -1,0 +1,2 @@
+# GRL
+Magnetotelluric data
